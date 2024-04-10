@@ -11,10 +11,9 @@
   },
   "author": "Tudor Sandulescu",
   "license": "ISC",
-  "devDependencies": {},
   "dependencies": {
     "date-fns": "^1.30.1",
-    "discord.js": "^12.4.1",
+    "discord.js": "^12.5.3",
     "dotenv": "^6.2.0",
     "koa": "^2.7.0",
     "koa-router": "^7.4.0",
